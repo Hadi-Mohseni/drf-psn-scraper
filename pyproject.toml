@@ -1,6 +1,6 @@
 [project]
 name = "drf-psn-scraper"
-version = "0.1.0"
+version = "1.0.0"
 description = "A Django REST Framework-based API that scrapes product data from the PlayStation Store."
 authors = [
     {name = "Hadi Mohseni",email = "hadimohseni1996@gmail.com"}
